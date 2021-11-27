@@ -1,0 +1,39 @@
+body {
+  background-color: cadetblue;
+}
+
+.contacts {
+  position: fixed;
+  width: 400px;
+  height: 400px;
+  background-color: rgb(34, 39, 37);
+  top: 200px;
+  left: 200px;
+  padding-left: 2px;
+  overflow: scroll;
+  font-family: "Karla", sans-serif;
+  font-family: "Mukta", sans-serif;
+  color: whitesmoke;
+  margin: 50px 350px;
+ 
+}
+
+.sticky {
+  position: sticky;
+  background-color: #fafaf7;
+  top: 35px;
+  color: black;
+  
+}
+.sticky_contact {
+  position: sticky;
+  top: 0px;
+  bottom: 0px;
+  
+  color: whitesmoke;
+  background-color: rgb(34, 39, 37);
+  font-family: "Karla", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
+  
+}
